@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <title>دفتر</title>
+
+  <!-- خط عربي جميل -->
+  <link href="https://fonts.googleapis.com/css2?family=Amiri&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      font-family: 'Amiri', serif;
+      background-color: #f9f7f3;
+      color: #222;
+      max-width: 700px;
+      margin: 80px auto;
+      padding: 20px;
+      line-height: 2.2;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      margin-bottom: 80px;
+    }
+
+    .entry {
+      margin-bottom: 70px;
+      white-space: pre-line;
+    }
+
+    footer {
+      text-align: center;
+      color: #999;
+      font-size: 14px;
+      margin-top: 100px;
+    }
+  </style>
+</head>
+
+<body>
+
+<h1>دفتر</h1>
+
+<div class="entry">
+أكتب هنا،
+لأن بعض الأشياء لا تُقال.
+</div>
+
+<div class="entry">
+لا ترتيب،
+لا تواريخ،
+ولا محاولات للفهم.
+</div>
+
+<div class="entry">  
+هذا المكان يشبهني،
+فوضوي قليلًا،
+وصادق أكثر مما يجب.
+</div>
+
+<footer>
+—
+</footer>
+
+</body>
+</html>
